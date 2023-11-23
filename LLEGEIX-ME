@@ -1,0 +1,27 @@
+1.
+git branch branca00
+
+5.
+git status
+git log
+
+6.
+No es pot visualitzar el fitxer perque no esta en la branca main esta en la branca00
+
+7.
+Si que es pot visualitzar perque el fitxer esta en la branca00 i aixo et permet visualitzar el que tens dins
+
+10b.
+git merge branca00
+
+12.
+git push origin main
+
+12c.
+Perque a la abranca00 hem fet un merge per fusiunar el document amb el main i son iguals
+
+14a.
+git push origin branca01
+
+14c.
+Si ja que tots el canvis que hem fet a la branca00 ja i son a la branca main.
